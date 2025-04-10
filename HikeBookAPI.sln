@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HikeBookAPI", "HikeBookAPI\HikeBookAPI.csproj", "{6E0572C5-FCCC-4002-BE94-C79F6F7ADBFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E0572C5-FCCC-4002-BE94-C79F6F7ADBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0572C5-FCCC-4002-BE94-C79F6F7ADBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0572C5-FCCC-4002-BE94-C79F6F7ADBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0572C5-FCCC-4002-BE94-C79F6F7ADBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9C1DCE6-D72E-4075-808B-D25D01631031}
+	EndGlobalSection
+EndGlobal
