@@ -889,6 +889,26 @@ namespace HikeBookAPI.Controllers
       }
     },
     {
+            ""type"": ""Feature"",
+            ""geometry"": {
+              ""type"": ""Point"",
+              ""coordinates"": [
+                      [
+            15.616766492609457,
+            59.350670733524055
+          ]
+          ]
+            },
+            ""properties"": {
+              ""markerType"": ""photo"",
+              ""title"": ""Sjön"",
+              ""description"": ""Härlig utsikt över Karsjö"",
+              ""date"": ""2014-07-10"",
+              ""picture"": ""../Picture/sjo.jpg"",
+              ""id"": ""2""
+            }
+          },
+    {
       ""type"": ""Feature"",
       ""properties"": {
  ""title"": ""Trevlig plats"",
@@ -900,7 +920,7 @@ namespace HikeBookAPI.Controllers
         ""date"": ""2004-02-22"",
         ""pathType"": ""Some Path"",
         ""terrain"": ""Forrest"",
-        ""difficulty"": ""3""
+        ""difficulty"": ""2""
       },
       ""geometry"": {
         ""coordinates"": [
@@ -1289,6 +1309,7 @@ namespace HikeBookAPI.Controllers
       },
       ""id"": 3
     },
+
     {
       ""type"": ""Feature"",
       ""properties"": {
@@ -1304,7 +1325,25 @@ namespace HikeBookAPI.Controllers
         ],
         ""type"": ""Point""
       }
-    }
+    },
+    {
+            ""type"": ""Feature"",
+            ""geometry"": {
+              ""type"": ""Point"",
+              ""coordinates"": [
+            16.048760255420717,
+            59.07981259598651
+          ]
+            },
+            ""properties"": {
+              ""markerType"": ""photo"",
+              ""title"": ""Djur"",
+              ""description"": ""Ett djur som jag såg under min vandring"",
+              ""date"": ""2014-07-10"",
+              ""picture"": ""../Picture/djur(1).jpg"",
+              ""id"": ""3""
+            }
+          }
   ]
 }";
         
